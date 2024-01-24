@@ -32,7 +32,7 @@ Dank voor je interesse en bijdrage.
 
 - Besturingsbordje:
     - Besturingsbordje met ruimte voor 18 blokken met een gebruiksvriendelijke lay-out.
-    ![img](https://raw.githubusercontent.com/010010org/ComputervisionAuto/main/besturingsbordje.png)
+    ![img](https://raw.githubusercontent.com/010010org/ComputervisionAuto/main/besturingsbordje.jpg)
     - Mogelijkheid om het besturingsbordje uit een foto/video feed te halen en te isoleren door middel van edge detection en het filteren van contouren.
     ![img](https://raw.githubusercontent.com/010010org/ComputervisionAuto/main/edge_detection.png)
 
